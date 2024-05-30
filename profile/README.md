@@ -25,7 +25,7 @@
 ## 4.Architecture
 
 <p align="center">
-  <img  src="./docs/architecture.png">
+  <img  src="./docs/Arquitetura.png">
 </p>
 
 ## 5. Repository Organization:
