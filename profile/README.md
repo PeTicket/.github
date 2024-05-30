@@ -59,13 +59,13 @@ The **Vet Web application** is available at: [localhost:8081](http://localhost:8
 
 The **Funcionary Web application** is available at: [localhost:8082](http://localhost:8082)
 
-The **Display Web application** is available at: [localhost:8083](http://localhost:8083)
+The **Display Web application** is available at: [localhost:8888](http://localhost:8888)
 
 It is also deployed in an UA Server, available using the UA network or the UA VPN at:
-- Client -> [Client_Web](mednati.ieeta...)
-- Vet -> [Vet_Web](mednati.ieeta...)
-- Funcionary -> [Func_Web](mednati.ieeta...)
-- Display -> [Display_Web](mednati.ieeta...)
+- Client -> [Client_Web](mednat.ieeta...)
+- Vet -> [Vet_Web](mednat.ieeta...)
+- Funcionary -> [Func_Web](mednat.ieeta...)
+- Display -> [Display_Web](mednat.ieeta...)
 
 ## 7.Project Bookmarks
 
