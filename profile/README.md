@@ -82,7 +82,7 @@ Login | vet@example.com |
 Password | password |
 
 **Func Credentials**
-Login | func@example.com |
+Login | funcionario@example.com |
 --- | --- |
 Password | password |
 
