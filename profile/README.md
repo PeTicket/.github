@@ -77,12 +77,12 @@ Login | user@email.com |
 Password | password |
 
 **Vet Credentials**
-Login | vet@email.com |
+Login | vet@example.com |
 --- | --- |
 Password | password |
 
 **Func Credentials**
-Login | func@email.com |
+Login | func@example.com |
 --- | --- |
 Password | password |
 
