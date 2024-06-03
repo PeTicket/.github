@@ -87,7 +87,7 @@ Login | funcionario@example.com |
 Password | password |
 
 ## 8. API for developers
-- **Client**: http://deti-tqs-13.ua.pt:8080/swagger-ui/index.html
-- **Vet**: http://deti-tqs-13.ua.pt:8081/swagger-ui/index.html 
-- **ClinicFunc**: http://deti-tqs-13.ua.pt:8082/swagger-ui/index.html
-- **Display**: http://deti-tqs-13.ua.pt:8888/swagger-ui/index.html 
+- [**Client**](http://deti-tqs-13.ua.pt:8080/swagger-ui/index.html)
+- [**Vet**](http://deti-tqs-13.ua.pt:8081/swagger-ui/index.html) 
+- [**ClinicFunc**](http://deti-tqs-13.ua.pt:8082/swagger-ui/index.html)
+- [**Display**](http://deti-tqs-13.ua.pt:8888/swagger-ui/index.html) 
