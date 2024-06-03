@@ -62,10 +62,10 @@ The **Funcionary Web application** is available at: [localhost:8082](http://loca
 The **Display Web application** is available at: [localhost:8888](http://localhost:8888)
 
 It is also deployed in an UA Server, available using the UA network or the UA VPN at:
-- Client -> [Client_Web](mednat.ieeta...)
-- Vet -> [Vet_Web](mednat.ieeta...)
-- Funcionary -> [Func_Web](mednat.ieeta...)
-- Display -> [Display_Web](mednat.ieeta...)
+- Client -> [Client_Web](http://deti-tqs-13.ua.pt:3001)
+- Vet -> [Vet_Web](http://deti-tqs-13.ua.pt:3003)
+- Funcionary -> [Func_Web](http://deti-tqs-13.ua.pt:3002)
+- Display -> [Display_Web](http://deti-tqs-13.ua.pt:3004)
 
 ## 7.Project Bookmarks
 
@@ -86,4 +86,8 @@ Login | funcionario@example.com |
 --- | --- |
 Password | password |
 
-### [**TQS Delivery REST API Docs**](link aqui) 
+## 8. API for developers
+- **Client**: http://deti-tqs-13.ua.pt:8080/swagger-ui/index.html
+- **Vet**: http://deti-tqs-13.ua.pt:8081/swagger-ui/index.html 
+- **ClinicFunc**: http://deti-tqs-13.ua.pt:8082/swagger-ui/index.html
+- **Display**: http://deti-tqs-13.ua.pt:8888/swagger-ui/index.html 
