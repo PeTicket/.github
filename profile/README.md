@@ -25,7 +25,7 @@
 ## 4.Architecture
 
 <p align="center">
-  <img  src="./docs/Arquitetura.png">
+  <img  src="https://github.com/PeTicket/PeTicket/docs/Arquitetura.png">
 </p>
 
 ## 5. Repository Organization:
